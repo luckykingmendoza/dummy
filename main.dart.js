@@ -93030,8 +93030,8 @@ K(a){return A.cm(new A.awO(),t.Ka)}}
 A.awO.prototype={
 $3(a,b,c){var s,r,q,p,o,n,m=null,l="Poppins",k=A.d2(m,B.cJ,!0,0,A.cC(m,m,B.kM,m,m,new A.awM(a),m,m,m),0,B.y,m),j=t.w
 j=A.dg(0,A.D(m,m,B.e,m,m,new A.X(B.i,m,m,new A.b0(new A.a0(15,15),new A.a0(15,15),B.r,B.r),m,m,B.n),m,(A.aC(a,m,j).w.a.b-A.aC(a,m,j).w.r.d)*0.75,m,m,m,m,m,1/0),m,m,0,0,m,m)
-s=A.k("Review your waived annual fee details",m,m,m,m,m,A.j(m,m,B.L,m,m,m,m,m,l,m,m,24,m,m,B.K,m,m,!0,m,m,m,m,m,m,m,m),m,m)
-r=A.k(u.l,m,m,m,m,m,A.j(m,m,B.ar,m,m,m,m,m,l,m,m,16,m,m,B.C,m,m,!0,m,m,m,m,m,m,m,m),m,m)
+s=A.k("Review your waived annual fee details",m,m,m,m,m,A.j(m,m,B.L,m,m,m,m,m,l,m,m,22,m,m,B.K,m,m,!0,m,m,m,m,m,m,m,m),m,m)
+r=A.k(u.l,m,m,m,m,m,A.j(m,m,B.ar,m,m,m,m,m,l,m,m,14,m,m,B.C,m,m,!0,m,m,m,m,m,m,m,m),m,m)
 q=A.aM(B.u.P(0.2),1)
 p=A.an(10)
 o=t.p
